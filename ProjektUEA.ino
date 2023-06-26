@@ -137,7 +137,7 @@ void loop() {
 
 inline void configureOTA()
 {
-  ArduinoOTA.setHostname("esp8266roleta");
+  ArduinoOTA.setHostname("esp32roleta");
   
   ArduinoOTA.onStart([]() {
     String type;
