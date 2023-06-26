@@ -1,0 +1,3 @@
+# ESP32_automatic_blind
+
+Brings both terrible user interface and experience to improve your life. Almost... 
